@@ -1,5 +1,0 @@
-com/example/webflux/WebFluxMongoApplication.class
-com/example/webflux/controller/ProductController.class
-com/example/webflux/service/ProductService.class
-com/example/webflux/model/Product.class
-com/example/webflux/repository/ProductRepository.class
